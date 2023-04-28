@@ -1,4 +1,4 @@
-# Fargield-Party README
+# Fargield Party README
 
 **Installation Instructions (Windows only for now)**
 
